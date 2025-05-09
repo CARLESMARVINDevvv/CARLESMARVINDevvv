@@ -30,13 +30,16 @@ I'm Charles Marvin from Jawa.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="40" alt="Livewire" />
+  <img src="https://e7.pngegg.com/pngimages/440/1013/png-clipart-microsoft-visual-studio-visual-studio-code-source-code-editor-computer-icons-coder-blue-angle.png" height="40" alt="Visual Studio" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
-
 
 ###
 
@@ -56,24 +59,14 @@ I'm Charles Marvin from Jawa.
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pz7ooans5rerj5gjnjxtjgchdi&unique=true" alt="Spotify Recently Played" />
 </div>
 
-
-
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CARLESMARVINDevvv/count.svg?" alt="Profile Counter" />
 </div>
 
-
-
 ###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding meme" />
 </div>
-
-
-###
-
-
-
