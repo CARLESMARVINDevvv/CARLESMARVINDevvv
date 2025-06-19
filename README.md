@@ -15,8 +15,8 @@
 
 I'm Charles Marvin from Jawa.  
 - 🔭 Currently working on: a student savings management system  
-- 🌱 Currently learning: Laravel 11, Livewire, and Vue  
-- ⚡ Fun fact: I love clean UIs and component-based architecture
+- 🌱 Currently learning: Laravel 11, Livewire, Vue, And Java  
+- ⚡ Fun fact: Saya Sebenarnya Ada dua Sisi Gelap Dan Terang
 
 ###
 
@@ -40,7 +40,11 @@ I'm Charles Marvin from Jawa.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
 </div>
+
+
 
 
 ###
