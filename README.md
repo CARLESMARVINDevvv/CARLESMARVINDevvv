@@ -15,7 +15,7 @@
 
 I'm Charles Marvin from Jawa.  
 - 🔭 Currently working on: a student savings management system  
-- 🌱 Currently learning: Laravel 11, Livewire, Vue, And Java  
+- 🌱 Currently learning: Laravel 11, Livewire, Vue, React And Java  
 - ⚡ Fun fact: Saya Sebenarnya Ada dua Sisi Gelap Dan Terang
 
 ###
