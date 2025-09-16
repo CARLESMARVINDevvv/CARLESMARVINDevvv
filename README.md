@@ -82,24 +82,24 @@ const MySelf = {
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CARLESMARVINDevvv&show_icons=true&theme=neon&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLESMARVINDevvv&layout=compact&langs_count=8&theme=neon&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlesWebDev&show_icons=true&theme=neon&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlesWebDev&layout=compact&langs_count=8&theme=neon&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CARLESMARVINDevvv&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=CarlesWebDev&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CARLESMARVINDevvv&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlesWebDev&theme=tokyonight" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLESMARVINDevvv&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlesWebDev&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
