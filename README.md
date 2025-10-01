@@ -33,7 +33,7 @@ const MySelf = {
 
 ### 🎨 Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite,express" alt="Frontend Skills" />
     <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" style="border-radius:12px; background-color: #1e1e2f;" alt="Livewire" />
 
 </div>
