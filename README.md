@@ -28,12 +28,12 @@ const MySelf = {
 
 ### 💻 Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,mongodb,postman,docker" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,mongodb,postman,docker,postgres,nodejs" alt="Backend Skills" />
 </div>
 
 ### 🎨 Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap," alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite" alt="Frontend Skills" />
     <img src="https://raw.githubusercontent.com/github/explore/c51b1d6b8774c1a8cf88f864b1f3e70a933d60c1/topics/livewire/livewire.png" height="48" style="border-radius:12px; background-color: #1e1e2f;" alt="Livewire" />
 
 </div>
@@ -60,6 +60,8 @@ const MySelf = {
 ### 🧰 Tools & Shell
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="Frontend Skills" />
+  
 </div>
 
 ---
